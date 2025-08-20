@@ -1,13 +1,3 @@
-"""
-Crie um programa que converte um valor em reais para dólares e euros. Use os seguintes dados:
-
-Valor em reais: R$ 100.00
-Taxa do dólar: R$ 5.60
-Taxa do euro: R$ 6.60 
-
-O programa deve calcular e exibir os valores convertidos, arredondando para duas casas decimais.
-"""
-
 reais = 100
 dolar = 5.6
 euro = 6.6

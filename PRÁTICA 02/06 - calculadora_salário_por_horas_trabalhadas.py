@@ -13,7 +13,7 @@ Imprima o número do funcionário e o salário calculado com duas casas decimais
 
 numero_funcionario = int(input("Digite o número do funcionário: "))
 horas_trabalhadas = int(input("Digite a quantidade de horas trabalhadas: "))
-valor_por_hora = float(input("Quanto ganha por hora em R$? "))
+valor_por_hora = float(input("Quanto ganha por hora? "))
 
 salario = horas_trabalhadas * valor_por_hora
 
